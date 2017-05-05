@@ -1,0 +1,79 @@
+\begin{tikzpicture}
+\begin{axis}
+
+\addplot table [x=t, y=y] 
+              {data/1_2_k_1.txt};
+\addplot table [x=t, y=y]
+			{data/1_2_k_5.txt};
+\addplot table [x=t, y=y]
+			{data/1_2_k_10.txt};
+\end{axis}
+\end{tikzpicture}
+
+\begin{tikzpicture}
+\begin{axis}
+
+\addplot table [x=t, y=y] 
+              {data/2_1_k_1.txt};
+\addplot table [x=t, y=y]
+			{data/2_1_k_5.txt};
+\addplot table [x=t, y=y]
+			{data/2_1_k_10.txt};
+\end{axis}
+\end{tikzpicture}
+
+\begin{tikzpicture}
+\begin{axis}
+
+\addplot table [x=t, y=y] 
+              {data/2_2_k_1.txt};
+\addplot table [x=t, y=y]
+			{data/2_2_k_5.txt};
+\addplot table [x=t, y=y]
+			{data/2_2_k_10.txt};
+\end{axis}
+\end{tikzpicture}
+
+\begin{tikzpicture}
+\begin{axis}
+
+\addplot table [x=t, y=y] 
+              {data/2_3_k_1.txt};
+\addplot table [x=t, y=y]
+			{data/2_3_k_5.txt};
+\addplot table [x=t, y=y]
+			{data/2_3_k_10.txt};
+\end{axis}
+\end{tikzpicture}
+
+\begin{tikzpicture}
+\begin{axis}
+
+\addplot table [x=t, y=y] 
+              {data/3_2.txt};
+\addplot table [x=t, y=y]
+			{data/3_3.txt};
+\end{axis}
+\end{tikzpicture}
+
+\begin{tikzpicture}
+\begin{axis}
+
+\addplot table [x=t, y=y] 
+              {data/4_1_g.txt};
+\addplot table [x=t, y=y]
+			{data/4_1_y.txt};
+\addplot table [x=t, y=y]
+			{data/4_1_e.txt};
+\end{axis}
+\end{tikzpicture}
+
+\begin{tikzpicture}
+\begin{axis}
+
+\addplot table [x=t, y=y] 
+              {data/4_1_e.txt};
+\addplot table [x=t, y=y]
+			{data/4_2_e_anal.txt};
+\end{axis}
+\end{tikzpicture}
