@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.15)  11 MAY 2017 17:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.15)  16 MAY 2017 18:40
 entering extended mode
 **./lab_9.tex
 (lab_9.tex
@@ -1335,79 +1335,72 @@ LaTeX Font Warning: Font shape `T2A/cmr/bx/n' in size <20> not available
 [1
 
 {C:/Users/Павел/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-[1]
+[1] [2]
 PGFPlots: reading {data/integrate.txt}
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[2]
-Package pgfplots info on input line 168: Using 'lua backend=false' for axis: xm
+ [3]
+Package pgfplots info on input line 165: Using 'lua backend=false' for axis: xm
 ode=log unsupported (yet).
 PGFPlots: reading {data/integrate.txt}
-Package pgfplots info on input line 184: Using 'lua backend=false' for axis: xm
+Package pgfplots info on input line 181: Using 'lua backend=false' for axis: xm
 ode=log unsupported (yet).
 PGFPlots: reading {data/integrate.txt}
 
-Overfull \hbox (2.42162pt too wide) in paragraph at lines 156--190
+Overfull \hbox (2.42162pt too wide) in paragraph at lines 153--187
 []$[]$ $[]$ 
  []
 
 PGFPlots: reading {data/integrate.txt}
 PGFPlots: reading {data/integrate.txt}
 
-Overfull \hbox (2.42162pt too wide) in paragraph at lines 193--219
+Overfull \hbox (2.42162pt too wide) in paragraph at lines 190--216
 []$[]$ $[]$ 
  []
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[3] [4]
+[4] [5]
 PGFPlots: reading {data/iso.txt}
 PGFPlots: reading {data/test.txt}
 PGFPlots: reading {data/test.txt}
- [5]
-Package pgfplots info on input line 294: Using 'lua backend=false' for axis: xm
+ [6]
+Package pgfplots info on input line 290: Using 'lua backend=false' for axis: xm
 ode=log unsupported (yet).
 PGFPlots: reading {data/iso.txt}
-Package pgfplots info on input line 310: Using 'lua backend=false' for axis: xm
+Package pgfplots info on input line 306: Using 'lua backend=false' for axis: xm
 ode=log unsupported (yet).
 PGFPlots: reading {data/iso.txt}
 
-Overfull \hbox (2.42162pt too wide) in paragraph at lines 284--316
+Overfull \hbox (2.42162pt too wide) in paragraph at lines 280--312
 []$[]$ $[]$ 
  []
 
 PGFPlots: reading {data/iso.txt}
 PGFPlots: reading {data/iso.txt}
 
-Overfull \hbox (2.42162pt too wide) in paragraph at lines 319--345
+Overfull \hbox (2.42162pt too wide) in paragraph at lines 315--341
 []$[]$ $[]$ 
  []
 
-[6] [7]
+[7] [8]
 PGFPlots: reading {data/koleb.txt}
- [8]
-Package pgfplots info on input line 398: Using 'lua backend=false' for axis: xm
+ [9]
+Package pgfplots info on input line 393: Using 'lua backend=false' for axis: xm
 ode=log unsupported (yet).
 PGFPlots: reading {data/koleb.txt}
-Package pgfplots info on input line 414: Using 'lua backend=false' for axis: xm
+Package pgfplots info on input line 409: Using 'lua backend=false' for axis: xm
 ode=log unsupported (yet).
 PGFPlots: reading {data/koleb.txt}
 
-Overfull \hbox (2.42162pt too wide) in paragraph at lines 388--420
+Overfull \hbox (2.42162pt too wide) in paragraph at lines 383--415
 []$[]$ $[]$ 
  []
 
 PGFPlots: reading {data/koleb.txt}
 PGFPlots: reading {data/koleb.txt}
 
-Overfull \hbox (2.42162pt too wide) in paragraph at lines 423--449
+Overfull \hbox (2.42162pt too wide) in paragraph at lines 418--444
 []$[]$ $[]$ 
  []
 
-[9] [10] (lab_9.aux)
+[10] [11] (lab_9.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.74pt have occurred.
@@ -1417,13 +1410,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 26879 strings out of 493333
- 661180 string characters out of 3142653
- 1227377 words of memory out of 3000000
- 29909 multiletter control sequences out of 15000+200000
+ 26881 strings out of 493333
+ 661210 string characters out of 3142653
+ 1224371 words of memory out of 3000000
+ 29911 multiletter control sequences out of 15000+200000
  21074 words of font info for 53 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,20n,104p,861b,2172s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,20n,104p,1345b,2172s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Павел\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi6
 00\larm1000.pk> <C:\Users\Павел\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\l
 h\lh-t2a\dpi600\labx1440.pk> <C:\Users\Павел\AppData\Local\MiKTeX\2.9\font
@@ -1442,9 +1435,9 @@ C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progra
 m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on lab_9.pdf (11 pages, 242814 bytes).
+Output written on lab_9.pdf (12 pages, 245543 bytes).
 PDF statistics:
- 367 PDF objects out of 1000 (max. 8388607)
+ 372 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
